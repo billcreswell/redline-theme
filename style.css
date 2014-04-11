@@ -52,6 +52,7 @@ textarea, input {
 #container {
     width:95%;
 	max-width:50em;
+	min-height:400px;
 	border:1px #444 solid;
 	border-radius:4px;
 	margin: 2% auto;
